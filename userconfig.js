@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-13.gif",
+      background_url: "src/img/banners/cbg-14a.gif",
       categories: [
         {
           name: "bookmarks",
@@ -211,7 +211,7 @@ const default_config = {
             {
               name: "Bluesky",
               url: "https://bsky.app/",
-              icon: "brand-bluesky",
+              icon: "butterfly",
               icon_color: palette.mauve,
             },
             {
