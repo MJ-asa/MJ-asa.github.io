@@ -193,8 +193,8 @@ const default_config = {
             },
             {
               name: "Lobsters",
-              url: "https://lobste.rs/",
-              icon: "circle-dotted-letter-l",
+              url: "https://lobstae.rs/",
+              icon: "article",
               icon_color: palette.peach,
             },
           ],
@@ -246,7 +246,7 @@ const default_config = {
             {
               name: "Wogley",
               url: "https://galaxy.click/play/454",
-              icon: "galaxy",
+              icon: "pick",
               icon_color: palette.green,
             },
             {
