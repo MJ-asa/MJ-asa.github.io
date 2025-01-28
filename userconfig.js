@@ -35,7 +35,7 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "Music;",
+              name: "Music",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.green,
@@ -81,7 +81,7 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "Shadow Library",
+              name: "Shadowlib",
               url: "https://annas-archive.org/",
               icon: "book",
               icon_color: palette.mauve,
